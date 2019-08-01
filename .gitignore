@@ -6,7 +6,8 @@
 .pnp.js
 
 netlify.toml
-/netlify
+/.netlify
+README.md
 
 # testing
 /coverage
